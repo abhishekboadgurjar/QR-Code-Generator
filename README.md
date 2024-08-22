@@ -1,3 +1,5 @@
+# QR Code Generator Website
+
 ## Introduction
 
 Hello, fellow developers! I'm excited to present my latest project: a **QR Code Generator**. This project is a great way to dive into JavaScript, focusing on how to dynamically generate QR codes based on user input. Whether you're new to web development or looking to enhance your JavaScript skills, this QR Code Generator project is an excellent opportunity to learn and create something useful.
