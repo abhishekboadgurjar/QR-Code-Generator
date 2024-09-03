@@ -20,7 +20,6 @@ The **QR Code Generator** is a web-based application that allows users to genera
 - **CSS**: Styles the user interface, ensuring a clean and responsive design.
 - **JavaScript**: Manages the logic for generating QR codes and handling user interactions.
 
-
 ## Installation
 
 To get started with the project, follow these steps:
